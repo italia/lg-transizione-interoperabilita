@@ -1,4 +1,4 @@
-# Piano di sviluppo DAF
+# Linee guida per transitare al nuovo Modello di interoperabilità
 
 Questo progetto contiene i sorgenti delle *Linee guida per transitare al nuovo Modello di interoperabilità*, primo risultato dell’azione “Linee guida del nuovo Modello di interoperabilità”, prevista nel [capitolo 5 del Piano Triennale per l’Informatica nella PA (2017-2019)](https://pianotriennale-ict.readthedocs.io/it/latest/doc/05_modello-di-interoperabilita.html).
 
