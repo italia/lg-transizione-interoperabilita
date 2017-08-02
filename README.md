@@ -4,7 +4,7 @@ Questo progetto contiene i sorgenti delle *Linee guida per transitare al nuovo M
 
 È possibile consultare il documento all'indirizzo: 
 
-[http://interop-linee-guida-transizione.readthedocs.io/it/latest/](http://interop-linee-guida-transizione.readthedocs.io/it/latest/)
+[http://lg-transizione-interoperabilita.readthedocs.io/en/latest/](http://lg-transizione-interoperabilita.readthedocs.io/en/latest/)
 
 È possibile scaricare i sorgenti, compilarli e sottomettere pull-request.
 
