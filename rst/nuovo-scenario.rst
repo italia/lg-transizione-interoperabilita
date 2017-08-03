@@ -87,7 +87,7 @@ erogati da fornitori privati e curare la distribuzione di tali certificati
 coordinandosi con le Amministrazioni con le quali hanno in essere meccanismi di
 cooperazione applicativa.
 
-Presso il partele di Indice PA è disponibile un `elenco completo delle porte di
+Presso il portale di Indice PA è disponibile un `elenco completo delle porte di
 dominio qualificate <http://www.indicepa.gov.it/report/n-rep-porte-dominio.php>`_.
 
 Sicurezza degli scambi e valore legale
