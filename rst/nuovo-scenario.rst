@@ -144,6 +144,10 @@ tracciature
   progettazione del servizio e la modalità di consultazione della stessa nonché
   di reperimento delle informazioni che la costituiscono dovranno essere
   descritte da un apposito documento allo scopo predisposto dall’amministrazione.
+  Per la trasmissione dei documenti informatici scambiati tra le PA 
+  di cui alla Circolare AgID 23/01/2013, n.60 si farà riferimento ai WSDL descritti
+  al capitolo 9 della Circolare prevedendo che il sistema destinatario restituisca
+  una segnatura di protocollo firmata.
 
 Nuove piattaforme applicative 
 -----------------------------
