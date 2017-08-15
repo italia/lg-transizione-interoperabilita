@@ -2,9 +2,11 @@
 
 Questo progetto contiene i sorgenti delle *Linee guida per transitare al nuovo Modello di interoperabilità*, primo risultato dell’azione “Linee guida del nuovo Modello di interoperabilità”, prevista nel [capitolo 5 del Piano Triennale per l’Informatica nella PA (2017-2019)](https://pianotriennale-ict.readthedocs.io/it/latest/doc/05_modello-di-interoperabilita.html).
 
-È possibile consultare il documento all'indirizzo: 
+È possibile consultare il documento a questi indirizzi:
 
-[http://lg-transizione-interoperabilita.readthedocs.io/en/latest/](http://lg-transizione-interoperabilita.readthedocs.io/en/latest/)
+* [Avviso ufficiale AgID](http://www.agid.gov.it/sites/default/files/upload_avvisi/linee_guida_passaggio_nuovo_modello_interoperabilita.pdf)
+
+* [Versione Read The Docs](http://lg-transizione-interoperabilita.readthedocs.io/en/latest/)
 
 È possibile scaricare i sorgenti, compilarli e sottomettere pull-request.
 
