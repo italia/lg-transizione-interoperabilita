@@ -6,7 +6,7 @@ Questo progetto contiene i sorgenti delle *Linee guida per transitare al nuovo M
 
 * [Avviso ufficiale AgID](http://www.agid.gov.it/sites/default/files/upload_avvisi/linee_guida_passaggio_nuovo_modello_interoperabilita.pdf)
 
-* [Versione Read The Docs](http://lg-transizione-interoperabilita.readthedocs.io/en/latest/)
+* [Versione Read The Docs](http://lg-transizione-interoperabilita.readthedocs.io/it/latest/)
 
 È possibile scaricare i sorgenti, compilarli e sottomettere pull-request.
 
